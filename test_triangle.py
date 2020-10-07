@@ -10,7 +10,9 @@ The primary goal of this file is to demonstrate a simple unittest implementation
 import unittest
 
 
-from triangle import classify_triangle
+from classify_triangle import classify_triangle
+# import classify_triangle from triangle
+
 
 # This code implements the unit test functionality
 # https://docs.python.org/3/library/unittest.html has a nice description of the framework
